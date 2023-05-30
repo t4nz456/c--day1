@@ -1,0 +1,15 @@
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.csproj.AssemblyReference.cache
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.AssemblyInfoInputs.cache
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.AssemblyInfo.cs
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.csproj.CoreCompileInputs.cache
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/bin/Debug/net7.0/c--day1
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/bin/Debug/net7.0/c--day1.deps.json
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/bin/Debug/net7.0/c--day1.runtimeconfig.json
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/bin/Debug/net7.0/c--day1.dll
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/bin/Debug/net7.0/c--day1.pdb
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.dll
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/refint/c--day1.dll
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.pdb
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/c--day1.genruntimeconfig.cache
+/Users/tanseen/Desktop/Bootcamp repos/c#2/c--day1/obj/Debug/net7.0/ref/c--day1.dll

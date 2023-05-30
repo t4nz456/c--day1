@@ -1,8 +1,6 @@
-using System;
+﻿using System;
 
 namespace HelloWorld
-
-
 {
     class Program
     {
@@ -10,12 +8,11 @@ namespace HelloWorld
         {
             Console.WriteLine("Name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Job: ");
-            string job = Console.ReadLine();
-            Console.WriteLine("Contact information: ");
-            string contact = Console.ReadLine();
-            Console.WriteLine(name + " " + job + " " + contact);
-
+            Console.WriteLine("Age: ");
+            string age = Console.ReadLine();
+            Console.WriteLine("Contact Information: ");
+            string contactInformation = Console.ReadLine();
+            Console.WriteLine(name + " " + age + " " + contactInformation);
         }
     }
 }
